@@ -1,0 +1,2 @@
+# Week-3-File-Handling-and-Exception-Handling-Assignment
+This repository contains a Python script (file_processor.py) that demonstrates fundamental file handling operations: reading the content of a text file, modifying it (converting to uppercase), and writing the modified content to a new file. The script also incorporates robust error handling to manage scenarios where the input file doesnt exist. 
